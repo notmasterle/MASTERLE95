@@ -359,9 +359,9 @@
 		"Ziebell"
 	],
 	// color scheme to distinguish the VS Code workspace
-	"workbench.colorTheme": "windows-nt",
+	"workbench.colorTheme": "Beautiful Dracula Normal",
 	// "workbench.iconTheme": "windows-nt-icons",
-	"workbench.iconTheme": "vsclassic-icon-theme",
+	"workbench.iconTheme": "material-icon-theme",
 	"workbench.colorCustomizations": {
 		"[windows-nt]": {
 			"icon.foreground": "#000000",
